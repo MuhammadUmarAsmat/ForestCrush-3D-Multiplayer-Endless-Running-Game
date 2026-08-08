@@ -1,4 +1,4 @@
-# 🌲 Forest Crush — 3D Endless Runner (Unity)
+# 🌲 Forest Crush — 3D Multiplayer Endless Runner (Unity)
 
 ![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity)
 ![C#](https://img.shields.io/badge/Language-C%23-239120)
